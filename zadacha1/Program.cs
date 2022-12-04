@@ -1,5 +1,5 @@
-﻿int num1=  
-int num2= 
+﻿int num1= 21; 
+int num2= 34;
     if (num1 > num2)
             
         Console.WriteLine("Max {0}, min {1}", num1, num2);
