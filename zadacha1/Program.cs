@@ -1,5 +1,5 @@
-﻿int num1= a; 
-int num2= b;
+﻿int num1=  
+int num2= 
     if (num1 > num2)
             
         Console.WriteLine("Max {0}, min {1}", num1, num2);
